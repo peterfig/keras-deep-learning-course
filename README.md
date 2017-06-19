@@ -20,6 +20,8 @@
 
 [Unsupervised Representation Learning with DCGAN](https://arxiv.org/abs/1511.06434)
 
+[fastText](https://arxiv.org/abs/1607.01759)
+
 ---
 ## Course Notebooks
 ### Keras API
